@@ -1,0 +1,1 @@
+export * as mmnrc from './nrc';
